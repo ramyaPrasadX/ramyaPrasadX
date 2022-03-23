@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ramyaPrasadX
-- 👀 I’m interested in Data structures, Algorithms, Python.
+- 👀 Building a career in data science.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on projects pertaining to data cleaning and analysing.
 - 📫 reach me at ramyaharleyprasad@gmail.com
